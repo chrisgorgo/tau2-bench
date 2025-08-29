@@ -164945,28 +164945,28 @@
                     "origin": "ORD",
                     "destination": "DEN",
                     "flight_number": "HAT238",
-                    "date": "2024-05-14",
+                    "date": "2024-05-20",
                     "price": 96
                 },
                 {
                     "origin": "DEN",
                     "destination": "LAS",
                     "flight_number": "HAT290",
-                    "date": "2024-05-14",
+                    "date": "2024-05-20",
                     "price": 64
                 },
                 {
                     "origin": "LAS",
                     "destination": "IAH",
                     "flight_number": "HAT266",
-                    "date": "2024-05-16",
+                    "date": "2024-05-22",
                     "price": 70
                 },
                 {
                     "origin": "IAH",
                     "destination": "ORD",
                     "flight_number": "HAT044",
-                    "date": "2024-05-16",
+                    "date": "2024-05-22",
                     "price": 76
                 }
             ],
@@ -185088,14 +185088,14 @@
                     "origin": "MCO",
                     "destination": "PHX",
                     "flight_number": "HAT214",
-                    "date": "2024-05-13",
+                    "date": "2024-05-20",
                     "price": 1377
                 },
                 {
                     "origin": "PHX",
                     "destination": "SEA",
                     "flight_number": "HAT045",
-                    "date": "2024-05-14",
+                    "date": "2024-05-21",
                     "price": 1712
                 }
             ],
