@@ -2194,7 +2194,7 @@
                     "arguments": {
                         "reservation_id": "HXDUBJ",
                         "total_baggages": 2,
-                        "nonfree_baggages": 2,
+                        "nonfree_baggages": 0,
                         "payment_id": "gift_card_6941833"
                     },
                     "info": null
@@ -2204,7 +2204,7 @@
             "nl_assertions": [
                 "Agent updates reservation HXDUBJ to flights HAT072 on 2024-05-19 and HAT278 on 2024-05-23.",
                 "Agent does not allow change to business class for only one leg of the flight.",
-                "Agent add 2 non-free baggages to reservation HXDUBJ."
+                "Agent add 2 free baggages to reservation HXDUBJ."
             ]
         },
         "annotations": null
