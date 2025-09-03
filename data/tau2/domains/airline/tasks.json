@@ -2485,7 +2485,7 @@
     {
         "id": "39",
         "description": {
-            "purpose": "Check that agent doesn't cancel reservations if the refund is not applicable even if the user asks. The tool does not allow to cancel without a refund.\nAlso user is not a native English speaker.",
+            "purpose": "Check that agent doesn't cancel reservations if the refund is not applicable even if the user asks. Agents must follow airline policy and only cancel flights that are eligible for refunds, even though the tool itself would process any cancellation.\nAlso user is not a native English speaker.",
             "relevant_policies": null,
             "notes": null
         },
