@@ -863,7 +863,7 @@
     {
         "id": "15",
         "description": {
-            "purpose": "Test finding cheapest economy flight on the next day. Multiple airports to consider. Testing understanding that policy forbids changing origin or destination of a reservation.",
+            "purpose": "Test finding cheapest Economy cabin class flight (not Basic Economy) on the next day. Multiple airports to consider. Testing understanding that policy forbids changing origin or destination of a reservation.",
             "relevant_policies": null,
             "notes": null
         },
@@ -872,7 +872,7 @@
             "instructions": {
                 "task_instructions": "Since you live in Princeton, so EWR and PHL are equally convenient for you and you want to consider both.\n\nYou are happy with original payment for refund.",
                 "domain": "airline",
-                "reason_for_call": "For your upcoming trip from ATL to PHL, you want to change for the cheapest economy flight and for the day after the original reservation.",
+                "reason_for_call": "For your upcoming trip from ATL to PHL, you want to change to the cheapest flight in Economy cabin class (not Basic Economy) for the day after the original reservation.",
                 "known_info": "Your name is Aarav Garcia.\n\nYour user id is aarav_garcia_1177.",
                 "unknown_info": null
             }
@@ -912,7 +912,7 @@
     {
         "id": "16",
         "description": {
-            "purpose": "Test finding cheapest economy flight on the next day.",
+            "purpose": "Test finding cheapest Economy cabin class flight (not Basic Economy) on the next day.",
             "relevant_policies": null,
             "notes": null
         },
@@ -921,7 +921,7 @@
             "instructions": {
                 "task_instructions": "You are happy with original payment for refund.",
                 "domain": "airline",
-                "reason_for_call": "For your upcoming trip from ATL to PHL, you want to change for the cheapest economy flight and for the day after the original reservation.",
+                "reason_for_call": "For your upcoming trip from ATL to PHL, you want to change to the cheapest flight in Economy cabin class (not Basic Economy) for the day after the original reservation.",
                 "known_info": "Your name is Aarav Garcia.\n\nYour user id is aarav_garcia_1177.",
                 "unknown_info": null
             }
