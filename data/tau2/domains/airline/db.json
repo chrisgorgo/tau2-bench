@@ -115606,37 +115606,23 @@
             "reservation_id": "VA5SGQ",
             "user_id": "raj_brown_5782",
             "origin": "DTW",
-            "destination": "LGA",
+            "destination": "JFK",
             "flight_type": "round_trip",
             "cabin": "economy",
             "flights": [
                 {
                     "origin": "DTW",
-                    "destination": "PHX",
-                    "flight_number": "HAT035",
+                    "destination": "JFK",
+                    "flight_number": "HAT240",
                     "date": "2024-05-17",
-                    "price": 163
+                    "price": 173
                 },
                 {
-                    "origin": "PHX",
-                    "destination": "LGA",
-                    "flight_number": "HAT066",
-                    "date": "2024-05-17",
-                    "price": 184
-                },
-                {
-                    "origin": "LGA",
-                    "destination": "PHX",
-                    "flight_number": "HAT002",
-                    "date": "2024-05-19",
-                    "price": 174
-                },
-                {
-                    "origin": "PHX",
+                    "origin": "JFK",
                     "destination": "DTW",
-                    "flight_number": "HAT106",
-                    "date": "2024-05-20",
-                    "price": 135
+                    "flight_number": "HAT088",
+                    "date": "2024-05-19",
+                    "price": 185
                 }
             ],
             "passengers": [
@@ -115649,7 +115635,7 @@
             "payment_history": [
                 {
                     "payment_id": "credit_card_8003957",
-                    "amount": 686
+                    "amount": 358
                 }
             ],
             "created_at": "2024-05-08T18:28:13",

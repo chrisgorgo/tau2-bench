@@ -1879,8 +1879,8 @@
             "instructions": {
                 "task_instructions": "You only want early flights that arrive before 7am at the destination.\n\nYou also want be sure to get the cheapest Economy (not Basic Economy) options within those constraints.\n\nIf the agent asks, you want your return flight to leave on the 19th.\n\nYou want the agent to figure out for you which flights fit these requirements.\n\nSince you took insurance for this trip, you want change fees waived.\n\nYou also want to add 1 checked bag.",
                 "domain": "airline",
-                "reason_for_call": "You want to change your upcoming roundtrip flights which are currently DTW to LGA and back.\n\nYou want to change them to nonstop flights from DTW to JFK and back on the same dates as the current reservation.",
-                "known_info": "You are Raj Brown.\n\nYour user id is raj_brown_5782.\n\nThe reservation ID is VA5SGQ for your DTW to LGA trip.",
+                "reason_for_call": "You want to change your upcoming roundtrip flights which are currently DTW to JFK and back.\n\nYour current flights depart in the afternoon, but you want to change them to early morning flights that arrive before 7am on the same dates.",
+                "known_info": "You are Raj Brown.\n\nYour user id is raj_brown_5782.\n\nThe reservation ID is VA5SGQ for your DTW to JFK trip.",
                 "unknown_info": null
             }
         },
