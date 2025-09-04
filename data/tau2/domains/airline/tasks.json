@@ -1432,7 +1432,7 @@
     {
         "id": "23",
         "description": {
-            "purpose": "Complex transaction where multiple bookings need to be made with payment efficiently split across them to minimize charges to a Mastercard.",
+            "purpose": "Complex transaction testing understanding of one-certificate-per-reservation policy. Multiple bookings must be made to use three certificates, with payment efficiently split across them to minimize charges to a Mastercard.",
             "relevant_policies": null,
             "notes": null
         },
